@@ -363,13 +363,13 @@
     }());
 </script>
 <style>
-    #TableOfContents > ul, ol {
-        ul, ol {
-            display: none;
-        }
-        .open {
-            display: block;
-        }
+    #TableOfContents > ul,
+    #TableOfContents > ol {
+        display: none;
+    }
+    #TableOfContents > ul.open,
+    #TableOfContents > ol.open {
+        display: block;
     }
 </style>
 
@@ -471,6 +471,18 @@
     left: 0;
     width: 100%;
     z-index: -1;
+  }
+</style>
+
+<style>
+  @font-face {
+    font-family: '游趣体';
+    src: url('https://sikadi123.github.io/font/ChildFunSans-Demo.ttf') format('truetype');
+  }
+
+  :root {
+    --base-font-family: '游趣体';
+    --code-font-family: '游趣体';
   }
 </style>
 
