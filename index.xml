@@ -6,8 +6,7 @@
         <description>Recent content on 可爱小果的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>最爱小果</copyright>
-        <lastBuildDate>Sat, 18 Oct 2025 16:27:14 +0800</lastBuildDate><atom:link href="https://sikadi123.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>最爱小果</copyright><atom:link href="https://sikadi123.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Newnewnew</title>
         <link>https://sikadi123.github.io/p/newnewnew/</link>
         <pubDate>Sat, 18 Oct 2025 16:27:14 +0800</pubDate>
@@ -64,7 +63,8 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;新标题&#34;&gt;新标题
 &lt;/h2&gt;&lt;h2 id=&#34;加油&#34;&gt;加油
-&lt;/h2&gt;</description>
+&lt;/h2&gt;&lt;h1 id=&#34;1&#34;&gt;1
+&lt;/h1&gt;</description>
         </item>
         <item>
         <title>归档</title>
